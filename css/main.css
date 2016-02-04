@@ -1,0 +1,176 @@
+header{
+	height:100px;
+}
+header img{
+	height:100px;
+	width:100px;
+}
+header nav{
+	margin-top:50px;
+}
+header nav a{
+	/*margin-top:100px;*/
+	text-decoration:none;
+	color:#9A9A9A;
+	font-size:18px;
+	padding:20px;
+}
+.semilla{
+	background-image:url("../img/semilla.jpg");
+	height:280px;
+}
+.grey{
+	background-color:#F2F2F2;
+	height:100px;
+	padding-top:30px;
+	padding-left:150px;
+	padding-right:150px;
+	text-align:center;
+}
+.mision{
+	padding-top:50px;
+	background-color:white;
+	height:300px;
+	text-align:center;
+	padding-left:100px;
+	padding-right:100px;
+}
+.mision p{
+	font-size:12px;
+	color:#D3D1BB;
+}
+.metodo{
+	background-image:url("../img/metodo.JPG");
+	background-size:100%;
+	height:400px;
+}
+.metodologia{
+	background-image:url("../img/fondo.jpg");
+	background-size:100%;
+	height:400px;
+	padding-top:100px;
+}
+.metodologia div{
+	text-align:center;
+	color:white;
+	padding-bottom:20px;
+}
+.servicios{
+	padding-top:50px;
+	padding-right: 100px;
+	padding-bottom:20px;
+	padding-left:100px;
+}
+.icon{
+	padding-top:50px;
+	text-align:center;
+	padding-bottom: 50px;
+}
+.green{
+	padding-top:100px;
+	padding-left:50px;
+	background-color:#5E8039;
+	height:750px;
+	color:white;
+}
+
+.green img{
+	height:300px;
+	width:500px;
+}
+.text{
+	text-align:center;
+	margin-top:100px;
+	margin-bottom:200px;
+}
+.equipo h2{
+	margin-top: 50px;
+	margin-left:50px;
+
+	color:#537D42;
+}
+.chica1{
+	text-align:center;
+	padding-left:100px;
+	padding-right:100px;
+}
+.girl1{
+	background-image:url("../img/fotos/equipo2.jpg");
+	background-position:top;
+	height:250px;
+	width:250px;
+	border-radius:100%;
+	margin:auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.redes{
+	height:40px;
+	width:40px;
+	margin:20px 5px 30px 5px;
+}
+.girl2{
+	background-image:url("../img/fotos/equipo3.jpg");
+	background-position:top;
+	height:250px;
+	width:250px;
+	border-radius:100%;
+	margin:auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.fondo2{
+	background-image:url("../img/fondo2.jpg");
+	height:450px;
+}
+.row h2{
+	padding-top:50px;
+	padding-left:20px;
+}
+.display{
+	padding-left: 100px;
+	padding-right:100px;
+}
+.post{
+	height:200px;
+	width:300px;
+}
+.row p{
+	font-size:10px;
+	color:grey;
+}
+.sociales{
+	padding-left:30px;
+	padding-top:70px;
+	background-color:#4D4D4D;
+	height:400px;
+}
+.sociales div{
+	display:inline-block;
+	border:1px solid white;
+	height:230px;
+	width:300px;
+}
+.sociales div h2{
+	position:relative;
+	top:20px;
+	left:30px;
+	color: white;
+	/*font-size:15px;*/
+}
+.images{
+	position:relative;
+	width:50px;
+	height:50px;
+	top:120px;
+	left:150px;
+}
+footer{
+	padding-top:50px;
+	background-color:#F2F2F2;
+	height:150px;
+	text-align:left;
+}
+footer p{
+	float:right;
+}
